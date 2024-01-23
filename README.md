@@ -5,13 +5,6 @@
 ## 🏆 My GitHub Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=hipheckts&theme=onedark)
 
-
-<!--![My Readme](me.svg)
-
-<!--### Hi there 👋, I'm Ifeoluwa Afuwape (He/Him)!
-
-## I enjoy building 📱 mobile and web ⚙️ solutions, with 😍 great passion for learning new technologies 🚀:
-
 <!--
 ## 🔭 I’m currently working on:
 
