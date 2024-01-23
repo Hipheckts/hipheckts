@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋, I'm Ifeoluwa Afuwape!
 
-<!--
-**Hipheckts/hipheckts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
+## 😄 Pronouns:
+<hr>
 
-Here are some ideas to get you started:
+<hr>
+## 🏆 My GitHub Trophies:
+<hr>
+https://github-profile-trophy.vercel.app/?username=hipheckts&theme=onedark&margin-w=15&margin-h=15
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+## 🔭 I’m currently working on:
+<hr>
+
+<hr>
+## 👯 I’m looking to collaborate on:
+<hr>
+
+<hr>
+## 📫 How to reach me:
+<hr>
