@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Ifeoluwa Afuwape!
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hipheckts&theme=onedark)]
+
 <hr>
 ## 😄 Pronouns:
 <hr>
@@ -7,7 +9,6 @@
 <hr>
 ## 🏆 My GitHub Trophies:
 <hr>
-[![trophy](https://github-profile-trophy.vercel.app/?username=hipheckts&theme=onedark)](https://github.com/hipheckts/github-profile-trophy)
 
 <hr>
 ## 🔭 I’m currently working on:
