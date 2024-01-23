@@ -7,7 +7,7 @@
 <hr>
 ## 🏆 My GitHub Trophies:
 <hr>
-[![trophy](https://github-profile-trophy.vercel.app/?username=hipheckts&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hipheckts&theme=onedark)](https://github.com/hipheckts/github-profile-trophy)
 
 <hr>
 ## 🔭 I’m currently working on:
