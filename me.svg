@@ -29,9 +29,9 @@
         text-align: center;
         }
         .container {
-          --color-main: #5452ee;
+          --color-main: #f44336;
           --color-primary: #e73c7e;
-          --color-secondary: #23a6d5;
+          --color-secondary: #ffc107;
           --color-tertiary: #ffff;
 
           background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
@@ -57,9 +57,9 @@
         @media (prefers-color-scheme: light) {
           .container {
             --color-main: #F15BB5;
-            --color-primary: #24b0ef;
-            --color-secondary: #4526f6;
-            --color-tertiary: #f6f645;
+            --color-primary: #ffc107;
+            --color-secondary: #dc1e10;
+            --color-tertiary: #f69d45;
           }
         }
 
