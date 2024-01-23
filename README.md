@@ -1,3 +1,4 @@
+![My Readme](me.svg)
 
 <!--### Hi there 👋, I'm Ifeoluwa Afuwape (He/Him)!
 
