@@ -4,8 +4,8 @@
 <hr>
 
 ## 🏆 My GitHub Trophies:
-<hr>
 ![trophy](https://github-profile-trophy.vercel.app/?username=hipheckts&theme=onedark)
+<hr>
 
 ## 🔭 I’m currently working on:
 <hr>
