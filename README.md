@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ifeoluwa Afuwape!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hipheckts&theme=onedark)]
+![trophy](https://github-profile-trophy.vercel.app/?username=hipheckts&theme=onedark)
 
 <hr>
 ## 😄 Pronouns:
