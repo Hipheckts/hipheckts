@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-  <img src="me.svg" style="width: 100%;" alt="Ifeoluwa Afuwape">
+  <img src="./me.svg" style="width: 100%;" alt="Ifeoluwa Afuwape">
 </div>
 
 ## 🏆 My GitHub Trophies:
