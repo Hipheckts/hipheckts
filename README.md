@@ -6,6 +6,9 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=hipheckts&theme=onedark)
 
 <!--
+
+![Ifeoluwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hipheckts&show_icons=true&count_private=true)
+
 ## 🔭 I’m currently working on:
 
 ## 👯 I’m looking to collaborate on:
