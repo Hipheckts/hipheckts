@@ -14,3 +14,10 @@
 ## 👯 I’m looking to collaborate on:
 
 ## 📫 How to reach me:
+
+
+  ### :fire: My Stats :
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hipheckts)](https://git.io/streak-stats)
+  
+![Ifeoluwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hipheckts&show_icons=true&theme=radical)
